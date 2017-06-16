@@ -1,0 +1,92 @@
+﻿<hr />
+<div class="alert alert-info alert-dismissable">
+    <a class="panel-close close" data-dismiss="alert">×</a>
+    <i class="fa fa-user-plus fa-3x"></i>
+    Create new Project. Make sure you fill all required fields.
+</div>
+<div class="row">
+    <form role="form" novalidate angular-validator name="addProjectForm" angular-validator-submit="Register()">
+        <div class="col-sm-6">
+            <div class="form-group">
+                <label for="projectName">Project Name</label>
+                <div class="form-group">
+                    <input type="text" class="form-control" ng-model="newProject.ProjectName" name="projectName" id="projectName" placeholder="Project Name"
+                           validate-on="blur" required required-message="'Project Name is required'">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="manager">Project Manager</label>
+                <div class="form-group">
+                    <input type="text" class="form-control" ng-model="newProject.ProjectManager" name="manager" id="manager" placeholder="Project Manager Name"
+                           validate-on="blur" required required-message="'Manager Name is required'">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="email">Email address</label>
+                <div class="form-group">
+                    <input type="email" class="form-control" ng-model="newProject.Email" id="email" name="email" placeholder="Email address"
+                           validate-on="blur" required required-message="'Email is required'">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="estimatedStartDate">Estimated Start Date</label>
+                <p class="input-group">
+                    <input type="text" class="form-control" name="estimatedStartDate" datepicker-popup="{{format}}" ng-model="newProject.ProjectEstimatedStartDate" is-open="openedEstimatedStartDate" datepicker-options="dateOptions" ng-required="true" datepicker-append-to-body="true" close-text="Close"
+                           validate-on="blur" required required-message="'Estimated Start Date is required'" />
+                    <span class="input-group-btn">
+                        <button type="button" class="btn btn-default" ng-click="openDatePicker($event,'openedEstimatedStartDate')"><i class="glyphicon glyphicon-calendar"></i></button>
+                    </span>
+                </p>
+            </div>
+            <div class="form-group">        
+                <label for="estimatedEndDate">Estimated End Date</label>
+                <p class="input-group">
+                    <input type="text" class="form-control" name="estimatedEndDate" datepicker-popup="{{format}}" ng-model="newProject.ProjectEstimatedEndDate" is-open="openedEstimatedEndDate" datepicker-options="dateOptions" ng-required="true" datepicker-append-to-body="true" close-text="Close"
+                           validate-on="blur" required required-message="'Estimated End Date is required'" />
+                    <span class="input-group-btn">
+                        <button type="button" class="btn btn-default" ng-click="openDatePicker($event,'openedEstimatedEndDate')"><i class="glyphicon glyphicon-calendar"></i></button>
+                    </span>
+                </p>
+            </div>
+            <div class="form-group">
+                <label for="actualStartDate">Actual Start Date</label>
+                <p class="input-group">
+                    <input type="text" class="form-control" name="actualStartDate" datepicker-popup="{{format}}" ng-model="newProject.ProjectActualStartDate" is-open="openedActualStartDate" datepicker-options="dateOptions"  datepicker-append-to-body="true" close-text="Close"
+                            />
+                    <span class="input-group-btn">
+                        <button type="button" class="btn btn-default" ng-click="openDatePicker($event,'openedActualStartDate')"><i class="glyphicon glyphicon-calendar"></i></button>
+                    </span>
+                </p>
+            </div>
+            <div class="form-group">
+                <label for="actualEndDate">Actual End Date</label>
+                <p class="input-group">
+                    <input type="text" class="form-control" name="actualEndDate" datepicker-popup="{{format}}" ng-model="newProject.ProjectActualEndDate" is-open="openedActualEndDate" datepicker-options="dateOptions"  datepicker-append-to-body="true" close-text="Close" />
+                    <span class="input-group-btn">
+                        <button type="button" class="btn btn-default" ng-click="openDatePicker($event,'openedActualEndDate')"><i class="glyphicon glyphicon-calendar"></i></button>
+                    </span>
+                </p>
+            </div>
+            <input type="submit" name="submit" id="submit" value="Submit" class="btn btn-info pull-right">
+        </div>
+    </form>
+    <div class="col-sm-5 col-md-push-1">
+        <div class="col-md-12">
+            <div class="alert alert-success">
+                <ul>
+                    <li ng-repeat="message in submission.successMessages track by $index">
+                        <strong>{{message}}</strong>
+                    </li>
+                </ul>
+                <strong ng-bind="submission.successMessage"><span class="glyphicon glyphicon-ok"></span> </strong>
+            </div>
+            <div class="alert alert-danger">
+                <ul>
+                    <li ng-repeat="error in submission.errorMessages track by $index">
+                        <strong>{{error}}</strong>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

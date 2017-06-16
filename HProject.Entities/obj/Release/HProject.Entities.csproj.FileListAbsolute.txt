@@ -1,0 +1,10 @@
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Entities\bin\Release\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Entities\bin\Release\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Entities\obj\Release\HProject.Entities.csprojResolveAssemblyReference.cache
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Entities\obj\Release\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Entities\obj\Release\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Entities\bin\Release\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Entities\bin\Release\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Entities\obj\Release\HProject.Entities.csprojResolveAssemblyReference.cache
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Entities\obj\Release\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Entities\obj\Release\HomeCinema.Entities.pdb

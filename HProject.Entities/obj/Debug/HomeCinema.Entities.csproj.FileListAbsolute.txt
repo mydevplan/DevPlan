@@ -1,0 +1,28 @@
+D:\DevelopmentaPlan\AngularSPA\LibraryAutomation\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+D:\DevelopmentaPlan\AngularSPA\LibraryAutomation\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+D:\DevelopmentaPlan\AngularSPA\LibraryAutomation\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojResolveAssemblyReference.cache
+D:\DevelopmentaPlan\AngularSPA\LibraryAutomation\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+D:\DevelopmentaPlan\AngularSPA\LibraryAutomation\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\LibraryAutomation\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\LibraryAutomation\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\LibraryAutomation\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojResolveAssemblyReference.cache
+D:\DDrive\DevelopmentaPlan\AngularSPA\LibraryAutomation\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\LibraryAutomation\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\HitachiProjectManagement\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\HitachiProjectManagement\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\HitachiProjectManagement\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\HitachiProjectManagement\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojResolveAssemblyReference.cache
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine - Copy\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine - Copy\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine - Copy\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine - Copy\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojResolveAssemblyReference.cache

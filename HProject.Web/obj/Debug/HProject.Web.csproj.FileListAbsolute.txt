@@ -1,0 +1,340 @@
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\obj\Debug\HProject.Web.csprojResolveAssemblyReference.cache
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\AutoMapper.Net4.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\HomeCinema.Web.dll.config
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\HomeCinema.Web.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\HomeCinema.Web.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\Antlr3.Runtime.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\Autofac.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\Autofac.Integration.WebApi.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\AutoMapper.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\EntityFramework.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\EntityFramework.SqlServer.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\FluentValidation.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\HomeCinema.Data.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\HomeCinema.Services.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\Newtonsoft.Json.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\System.Net.Http.Formatting.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\System.Web.Helpers.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\System.Web.Http.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\System.Web.Http.WebHost.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\System.Web.Mvc.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\System.Web.Optimization.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\System.Web.Razor.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\System.Web.Webpages.Deployment.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\System.Web.Webpages.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\System.Web.Webpages.Razor.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\WebGrease.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\HomeCinema.Data.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\HomeCinema.Services.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\Antlr3.Runtime.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\Autofac.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\Autofac.Integration.WebApi.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\AutoMapper.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\AutoMapper.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\AutoMapper.Net4.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\EntityFramework.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\EntityFramework.SqlServer.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\FluentValidation.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\FluentValidation.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\System.Web.Optimization.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\System.Web.Razor.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\System.Web.Webpages.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\System.Web.Webpages.Deployment.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\System.Web.Webpages.Razor.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\System.Web.Helpers.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\System.Web.Mvc.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\Newtonsoft.Json.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\System.Net.Http.Formatting.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\System.Web.Http.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\System.Web.Http.WebHost.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\da\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\de\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\es\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\fi\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\fr\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\it\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\ko\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\mk\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\nl\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\pl\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\pt\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\ru\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\sv\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\bin\tr\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\obj\Debug\HomeCinema.Web.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Web\obj\Debug\HomeCinema.Web.pdb
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\AutoMapper.Net4.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\HomeCinema.Web.dll.config
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\HomeCinema.Web.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\HomeCinema.Web.pdb
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\Antlr3.Runtime.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\Autofac.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\Autofac.Integration.WebApi.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\AutoMapper.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\EntityFramework.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\EntityFramework.SqlServer.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\FluentValidation.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\HomeCinema.Data.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\HomeCinema.Entities.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\HomeCinema.Services.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\Microsoft.Web.Infrastructure.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\Newtonsoft.Json.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\System.Net.Http.Formatting.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\System.Web.Helpers.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\System.Web.Http.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\System.Web.Http.WebHost.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\System.Web.Mvc.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\System.Web.Optimization.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\System.Web.Razor.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\System.Web.Webpages.Deployment.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\System.Web.Webpages.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\System.Web.Webpages.Razor.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\WebGrease.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\HomeCinema.Data.pdb
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\HomeCinema.Entities.pdb
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\HomeCinema.Services.pdb
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\Antlr3.Runtime.pdb
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\Autofac.xml
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\Autofac.Integration.WebApi.xml
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\AutoMapper.pdb
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\AutoMapper.xml
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\AutoMapper.Net4.pdb
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\EntityFramework.xml
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\EntityFramework.SqlServer.xml
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\FluentValidation.pdb
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\FluentValidation.xml
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\System.Web.Optimization.xml
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\System.Web.Razor.xml
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\System.Web.Webpages.xml
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\System.Web.Webpages.Deployment.xml
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\System.Web.Webpages.Razor.xml
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\System.Web.Helpers.xml
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\System.Web.Mvc.xml
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\Newtonsoft.Json.xml
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\System.Net.Http.Formatting.xml
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\System.Web.Http.xml
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\System.Web.Http.WebHost.xml
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\da\FluentValidation.resources.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\de\FluentValidation.resources.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\es\FluentValidation.resources.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\fi\FluentValidation.resources.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\fr\FluentValidation.resources.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\it\FluentValidation.resources.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\ko\FluentValidation.resources.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\mk\FluentValidation.resources.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\nl\FluentValidation.resources.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\pl\FluentValidation.resources.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\pt\FluentValidation.resources.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\ru\FluentValidation.resources.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\sv\FluentValidation.resources.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\bin\tr\FluentValidation.resources.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\obj\Debug\HProject.Web.csprojResolveAssemblyReference.cache
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\obj\Debug\HomeCinema.Web.dll
+\\HCHLH1216LP1396\Eppa\HomeCinema.Web\obj\Debug\HomeCinema.Web.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\AutoMapper.Net4.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\HomeCinema.Web.dll.config
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\HomeCinema.Web.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\HomeCinema.Web.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\Antlr3.Runtime.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\Autofac.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\Autofac.Integration.WebApi.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\AutoMapper.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\EntityFramework.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\EntityFramework.SqlServer.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\FluentValidation.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\HomeCinema.Data.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\HomeCinema.Services.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\Newtonsoft.Json.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\System.Net.Http.Formatting.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\System.Web.Helpers.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\System.Web.Http.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\System.Web.Http.WebHost.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\System.Web.Mvc.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\System.Web.Optimization.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\System.Web.Razor.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\System.Web.Webpages.Deployment.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\System.Web.Webpages.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\System.Web.Webpages.Razor.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\WebGrease.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\HomeCinema.Data.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\HomeCinema.Services.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\Antlr3.Runtime.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\Autofac.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\Autofac.Integration.WebApi.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\AutoMapper.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\AutoMapper.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\AutoMapper.Net4.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\EntityFramework.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\EntityFramework.SqlServer.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\FluentValidation.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\FluentValidation.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\System.Web.Optimization.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\System.Web.Razor.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\System.Web.Webpages.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\System.Web.Webpages.Deployment.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\System.Web.Webpages.Razor.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\System.Web.Helpers.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\System.Web.Mvc.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\Newtonsoft.Json.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\System.Net.Http.Formatting.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\System.Web.Http.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\System.Web.Http.WebHost.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\da\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\de\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\es\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\fi\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\fr\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\it\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\ko\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\mk\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\nl\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\pl\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\pt\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\ru\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\sv\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\bin\tr\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\obj\Debug\HProject.Web.csprojResolveAssemblyReference.cache
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\obj\Debug\HomeCinema.Web.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Web\obj\Debug\HomeCinema.Web.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\AutoMapper.Net4.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\HomeCinema.Web.dll.config
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\HomeCinema.Web.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\HomeCinema.Web.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\Antlr3.Runtime.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\Autofac.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\Autofac.Integration.WebApi.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\AutoMapper.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\EntityFramework.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\EntityFramework.SqlServer.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\FluentValidation.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\HomeCinema.Data.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\HomeCinema.Services.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\Newtonsoft.Json.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\System.Net.Http.Formatting.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\System.Web.Helpers.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\System.Web.Http.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\System.Web.Http.WebHost.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\System.Web.Mvc.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\System.Web.Optimization.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\System.Web.Razor.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\System.Web.Webpages.Deployment.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\System.Web.Webpages.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\System.Web.Webpages.Razor.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\WebGrease.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\HomeCinema.Data.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\HomeCinema.Services.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\Antlr3.Runtime.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\Autofac.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\Autofac.Integration.WebApi.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\AutoMapper.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\AutoMapper.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\AutoMapper.Net4.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\EntityFramework.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\EntityFramework.SqlServer.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\FluentValidation.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\FluentValidation.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\System.Web.Optimization.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\System.Web.Razor.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\System.Web.Webpages.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\System.Web.Webpages.Deployment.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\System.Web.Webpages.Razor.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\System.Web.Helpers.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\System.Web.Mvc.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\Newtonsoft.Json.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\System.Net.Http.Formatting.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\System.Web.Http.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\System.Web.Http.WebHost.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\da\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\de\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\es\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\fi\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\fr\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\it\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\ko\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\mk\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\nl\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\pl\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\pt\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\ru\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\sv\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\bin\tr\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\obj\Debug\HProject.Web.csprojResolveAssemblyReference.cache
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\obj\Debug\HomeCinema.Web.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Web\obj\Debug\HomeCinema.Web.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\AutoMapper.Net4.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\HomeCinema.Web.dll.config
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\HomeCinema.Web.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\HomeCinema.Web.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\Antlr3.Runtime.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\Autofac.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\Autofac.Integration.WebApi.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\AutoMapper.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\EntityFramework.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\EntityFramework.SqlServer.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\FluentValidation.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\HomeCinema.Data.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\HomeCinema.Services.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\Newtonsoft.Json.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\System.Net.Http.Formatting.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\System.Web.Helpers.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\System.Web.Http.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\System.Web.Http.WebHost.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\System.Web.Mvc.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\System.Web.Optimization.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\System.Web.Razor.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\System.Web.Webpages.Deployment.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\System.Web.Webpages.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\System.Web.Webpages.Razor.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\WebGrease.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\HomeCinema.Data.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\HomeCinema.Services.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\Antlr3.Runtime.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\Autofac.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\Autofac.Integration.WebApi.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\AutoMapper.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\AutoMapper.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\AutoMapper.Net4.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\EntityFramework.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\EntityFramework.SqlServer.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\FluentValidation.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\FluentValidation.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\System.Web.Optimization.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\System.Web.Razor.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\System.Web.Webpages.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\System.Web.Webpages.Deployment.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\System.Web.Webpages.Razor.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\System.Web.Helpers.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\System.Web.Mvc.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\Newtonsoft.Json.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\System.Net.Http.Formatting.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\System.Web.Http.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\System.Web.Http.WebHost.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\da\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\de\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\es\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\fi\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\fr\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\it\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\ko\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\mk\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\nl\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\pl\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\pt\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\ru\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\sv\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\bin\tr\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\obj\Debug\HProject.Web.csprojResolveAssemblyReference.cache
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\obj\Debug\HomeCinema.Web.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Web\obj\Debug\HomeCinema.Web.pdb

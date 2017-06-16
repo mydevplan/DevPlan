@@ -1,0 +1,4 @@
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb

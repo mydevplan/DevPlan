@@ -1,0 +1,64 @@
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\HomeCinema.Data.dll.config
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\HomeCinema.Data.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\HomeCinema.Data.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\EntityFramework.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\FluentValidation.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\MockData.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\EntityFramework.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\FluentValidation.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\FluentValidation.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\da\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\de\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\es\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\fi\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\fr\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\it\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\ko\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\mk\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\nl\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\pl\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\pt\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\ru\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\sv\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\bin\Release\tr\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\obj\Release\HProject.Data.csprojResolveAssemblyReference.cache
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\obj\Release\HProject.Data.Migrations.project_migration.resources
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\obj\Release\HProject.Data.csproj.GenerateResource.Cache
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\obj\Release\HomeCinema.Data.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Data\obj\Release\HomeCinema.Data.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\HomeCinema.Data.dll.config
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\HomeCinema.Data.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\HomeCinema.Data.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\EntityFramework.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\FluentValidation.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\MockData.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\EntityFramework.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\FluentValidation.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\FluentValidation.xml
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\da\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\de\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\es\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\fi\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\fr\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\it\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\ko\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\mk\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\nl\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\pl\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\pt\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\ru\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\sv\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\bin\Release\tr\FluentValidation.resources.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\obj\Release\HProject.Data.csprojResolveAssemblyReference.cache
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\obj\Release\HProject.Data.Migrations.project_migration.resources
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\obj\Release\HProject.Data.csproj.GenerateResource.Cache
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\obj\Release\HomeCinema.Data.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Data\obj\Release\HomeCinema.Data.pdb

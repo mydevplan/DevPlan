@@ -1,0 +1,20 @@
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Mine -Changed\HomeCinema.Entities\obj\Debug\HProject.Entities.csprojResolveAssemblyReference.cache
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Entities\obj\Debug\HProject.Entities.csprojResolveAssemblyReference.cache
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Entities\bin\Debug\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Entities\bin\Debug\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Entities\obj\Debug\HProject.Entities.csprojResolveAssemblyReference.cache
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Entities\obj\Debug\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\Eppa\HProject.Entities\obj\Debug\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Entities\bin\Debug\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Entities\bin\Debug\HomeCinema.Entities.pdb
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Entities\obj\Debug\HProject.Entities.csprojResolveAssemblyReference.cache
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Entities\obj\Debug\HomeCinema.Entities.dll
+D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Entities\obj\Debug\HomeCinema.Entities.pdb
