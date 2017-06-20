@@ -225,7 +225,7 @@
     <Compile Include="Infrastructure\Core\UploadMultipartFormProvider.cs" />
     <Compile Include="Infrastructure\Extensions\EntitiesExtensions.cs" />
     <Compile Include="Infrastructure\Extensions\RequestMessageExtensions.cs" />
-    <Compile Include="Infrastructure\MessageHandlers\HomeCinemaAuthHandler.cs" />
+    <Compile Include="Infrastructure\MessageHandlers\HitachiProjectAuthHandler.cs" />
     <Compile Include="Infrastructure\Validators\ProjectViewModelValidator.cs" />
     <Compile Include="Infrastructure\Validators\AccountViewModelValidators.cs" />
     <Compile Include="Mappings\AutoMapperConfiguration.cs" />

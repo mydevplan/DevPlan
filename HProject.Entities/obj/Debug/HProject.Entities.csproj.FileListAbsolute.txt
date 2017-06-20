@@ -18,3 +18,8 @@ D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Entities\bin\Debug\Home
 D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Entities\obj\Debug\HProject.Entities.csprojResolveAssemblyReference.cache
 D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Entities\obj\Debug\HomeCinema.Entities.dll
 D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Entities\obj\Debug\HomeCinema.Entities.pdb
+D:\MyDevPlanGitDir\HProject.Entities\bin\Debug\HomeCinema.Entities.dll
+D:\MyDevPlanGitDir\HProject.Entities\bin\Debug\HomeCinema.Entities.pdb
+D:\MyDevPlanGitDir\HProject.Entities\obj\Debug\HProject.Entities.csprojResolveAssemblyReference.cache
+D:\MyDevPlanGitDir\HProject.Entities\obj\Debug\HomeCinema.Entities.dll
+D:\MyDevPlanGitDir\HProject.Entities\obj\Debug\HomeCinema.Entities.pdb

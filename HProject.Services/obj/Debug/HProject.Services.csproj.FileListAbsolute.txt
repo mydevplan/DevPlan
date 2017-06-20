@@ -42,3 +42,14 @@ D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Services\bin\Debug\Enti
 D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Services\obj\Debug\HProject.Services.csprojResolveAssemblyReference.cache
 D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Services\obj\Debug\HomeCinema.Services.dll
 D:\DDrive\DevelopmentaPlan\AngularSPA\FinalCopy\HProject.Services\obj\Debug\HomeCinema.Services.pdb
+D:\MyDevPlanGitDir\HProject.Services\bin\Debug\HomeCinema.Services.dll
+D:\MyDevPlanGitDir\HProject.Services\bin\Debug\HomeCinema.Services.pdb
+D:\MyDevPlanGitDir\HProject.Services\bin\Debug\HomeCinema.Data.dll
+D:\MyDevPlanGitDir\HProject.Services\bin\Debug\HomeCinema.Entities.dll
+D:\MyDevPlanGitDir\HProject.Services\bin\Debug\EntityFramework.dll
+D:\MyDevPlanGitDir\HProject.Services\bin\Debug\HomeCinema.Data.pdb
+D:\MyDevPlanGitDir\HProject.Services\bin\Debug\HomeCinema.Entities.pdb
+D:\MyDevPlanGitDir\HProject.Services\bin\Debug\EntityFramework.xml
+D:\MyDevPlanGitDir\HProject.Services\obj\Debug\HProject.Services.csprojResolveAssemblyReference.cache
+D:\MyDevPlanGitDir\HProject.Services\obj\Debug\HomeCinema.Services.dll
+D:\MyDevPlanGitDir\HProject.Services\obj\Debug\HomeCinema.Services.pdb
